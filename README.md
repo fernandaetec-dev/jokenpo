@@ -42,9 +42,3 @@ git clone https://github.com/fernandaetec-dev/jokenpo.git
 cd jokenpo
 
 Desenvolvido por Fernanda.
-
-📄 Licença
-
-Este projeto pode ser utilizado para fins de estudo e aprendizado.
-
-Consulte o repositório para informações específicas sobre a licença do projeto
